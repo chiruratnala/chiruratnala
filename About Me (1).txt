@@ -1,0 +1,301 @@
+<div align="center">
+
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:24292E,100:8B949E&height=200&section=header&text=Chiru%20Vignesh%20Kumar%20Ratnala&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Data%20Analyst%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python&descAlignY=60&descColor=E8E8E8)
+
+</div>
+
+### About Me
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%24+role+--data-analyst+--bi-analyst;%24+stack+SQL+%7C+Power+BI+%7C+Python+%7C+DAX;%24+focus+dashboards+%2B+ETL+%2B+EDA;%24+status+building+more+projects...;%24+open_to+%22Data+Analyst%22+%22BI+Analyst%22)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science-24292E?style=flat-square&logo=googlescholar&logoColor=FFFFFF&labelColor=24292E&color=8B949E)
+![University](https://img.shields.io/badge/DNR%20College%20of%20Engineering%20%26%20Technology-24292E?style=flat-square&logo=googleclassroom&logoColor=FFFFFF&labelColor=24292E&color=8B949E)
+![Location](https://img.shields.io/badge/Bhimavaram%2C%20Andhra%20Pradesh-24292E?style=flat-square&logo=googlemaps&logoColor=FFFFFF&labelColor=24292E&color=8B949E)
+
+</div>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=netlify&logoColor=FFFFFF&labelColor=24292E&color=8B949E)](https://chiruratnala.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24292E?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=24292E&color=8B949E)](https://linkedin.com/in/chiru-ratnala)
+[![Email](https://img.shields.io/badge/Email-24292E?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=24292E&color=8B949E)](mailto:chiruratnalaa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=24292E&color=8B949E)](https://github.com/chiruratnala)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=chiruratnala&style=flat-square&color=8B949E&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/chiruratnala?style=flat-square&color=8B949E&labelColor=24292E&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/chiruratnala?style=flat-square&color=8B949E&labelColor=24292E&label=STARS)
+
+</div>
+
+
+
+### Skills
+
+**Languages & Querying**
+
+![Python](https://skillicons.dev/icons?i=python&theme=dark)
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)
+
+**BI & Visualization**
+
+![PowerBI](https://skillicons.dev/icons?i=powerbi&theme=dark)
+![Tableau](https://img.shields.io/badge/Tableau-24292E?style=flat-square&logo=tableau&logoColor=FFFFFF)
+![Excel](https://img.shields.io/badge/Excel-24292E?style=flat-square&logo=microsoftexcel&logoColor=FFFFFF)
+
+**Data & Tooling**
+
+![Pandas](https://img.skillicons.dev/icons?i=pandas&theme=dark)
+![NumPy](https://img.skillicons.dev/icons?i=numpy&theme=dark)
+![Matplotlib](https://img.skillicons.dev/icons?i=matplotlib&theme=dark)
+![Seaborn](https://img.skillicons.dev/icons?i=seaborn&theme=dark)
+![GoogleSheets](https://skillicons.dev/icons?i=gsheets&theme=dark)
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
+
+---
+
+### Specialties
+
+<div align="center">
+
+![SQL Window Functions](https://img.shields.io/badge/SQL-Window%20Functions-24292E?style=flat-square&color=8B949E)
+![DAX](https://img.shields.io/badge/Power%20BI-DAX-24292E?style=flat-square&color=8B949E)
+![ETL](https://img.shields.io/badge/Python-ETL%20Pipelines-24292E?style=flat-square&color=8B949E)
+![EDA](https://img.shields.io/badge/EDA-Statistical%20Analysis-24292E?style=flat-square&color=8B949E)
+![CLV](https://img.shields.io/badge/Analytics-Customer%20Lifetime%20Value-24292E?style=flat-square&color=8B949E)
+
+</div>
+
+---
+
+### Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| SQL & Databases | ⭐⭐⭐⭐ | MySQL, SQL Server, PostgreSQL, joins, subqueries, window functions, aggregations |
+| Power BI & DAX | ⭐⭐⭐⭐ | Dashboard design, data modeling, KPIs, automated ETL via Power Query |
+| Python for Data | ⭐⭐⭐⭐ | Pandas, NumPy, Matplotlib, Seaborn, EDA, statistical analysis |
+| Excel & Reporting | ⭐⭐⭐⭐ | Advanced Excel, Pivot Tables, VLOOKUP, Power Query, MIS reporting |
+| Tableau | ⭐⭐⭐ | Basic dashboarding and visual data exploration |
+| Stakeholder Storytelling | ⭐⭐⭐⭐ | Translating raw data into business-ready insights and recommendations |
+
+---
+
+### Featured Projects
+
+<details open>
+<summary><b>📊 Supermarket Sales Analysis — Power BI</b></summary>
+<br>
+
+Designed an interactive Power BI dashboard analyzing 50K+ retail transactions, with automated ETL pipelines in Power Query and advanced DAX measures tracking dynamic KPIs and regional profit variances.
+
+| Stack | Scale | Impact |
+|---|---|---|
+| Power BI, DAX, Power Query | 50K+ transactions | Isolated high-value customer segments driving 30%+ of total sales |
+
+🔗 [Repository](https://github.com/chiruratnala/sales-dashboard-powerbi)
+
+</details>
+
+<details>
+<summary><b>🏦 Bank Customer Churn Analysis — Excel</b></summary>
+<br>
+
+Analyzed a 10,000-record financial dataset using Advanced Excel and dynamic Pivot Tables to diagnose a 20.38% baseline churn rate, modeling 18 behavioral and demographic variables to isolate high-risk customer profiles.
+
+| Stack | Scale | Impact |
+|---|---|---|
+| Excel, Pivot Tables | 10,000 records, 18 variables | Strategic retention insights to minimize revenue leakage and optimize CLV |
+
+🔗 [Repository](https://github.com/chiruratnala/Bank-Customer-Churn-Analysis)
+
+</details>
+
+<details>
+<summary><b>🛒 Sales Performance Analysis — SQL</b></summary>
+<br>
+
+Analyzed a 4,900+ order retail dataset using MySQL with complex JOINs, subqueries, and window functions to diagnose revenue leakages and calculate Customer Lifetime Value.
+
+| Stack | Scale | Impact |
+|---|---|---|
+| MySQL, Window Functions | 4,900+ orders | Identified Technology sector & West/East regions as primary profit engines |
+
+🔗 [Repository](https://github.com/chiruratnala/super-store-analysis-using-sql)
+
+</details>
+
+<details>
+<summary><b>🐍 Sales Analysis — Python EDA</b></summary>
+<br>
+
+Executed end-to-end exploratory data analysis on a multi-year retail dataset, automating cleaning and feature engineering with Pandas, reducing data prep time by ~60%.
+
+| Stack | Scale | Impact |
+|---|---|---|
+| Python, Pandas, Seaborn | Multi-year retail dataset | Revealed Q3/Q4 seasonality & identified Technology as top revenue driver |
+
+🔗 [Repository](https://github.com/chiruratnala/sales-analysis-project)
+
+</details>
+
+---
+
+### Extracurricular Activities
+
+**Bank of America — Sales and Trading Analyst Job Simulation (Forage)**
+`June 2026`
+- Analyzed market trends and delivered client-centric solutions within the sales and trading division
+- Used Excel and Bloomberg-style tools to identify financial trends and assess market dynamics
+- Developed a client proposal with data-driven investment strategies
+
+`#excel` `#financial-analysis` `#client-reporting`
+
+**Tata Group — Data Analytics Job Simulation (Forage)**
+`August 2025`
+- Worked on AI-powered data analytics and strategy development for the Financial Services team at Tata iQ
+- Conducted EDA using GenAI tools to assess data quality and structure insights for predictive modeling
+
+`#eda` `#genai` `#predictive-modeling`
+
+**Deloitte Australia — Data Analytics Job Simulation (Forage)**
+`July 2025`
+- Performed data analysis and forensic technology work
+- Built a data dashboard using Tableau
+- Used Excel to classify data and draw business conclusions
+
+`#tableau` `#forensic-analytics` `#excel`
+
+**Accenture North America — Data Analytics and Visualization Job Simulation (Forage)**
+`September 2024`
+- Advised a hypothetical social media client as a Data Analyst
+- Cleaned, modeled, and analyzed 7 datasets to uncover content trend insights
+- Prepared a PowerPoint deck and video presentation for stakeholders
+
+`#data-cleaning` `#visualization` `#stakeholder-comms`
+
+---
+
+### Achievements
+
+<div align="center">
+
+| Achievement | Detail |
+|:---:|:---:|
+| 🏦 Churn Diagnosis | Uncovered 20.38% baseline churn rate across 10,000 records |
+| 📈 Profit Recovery | Diagnosed revenue leakage across 4,900+ orders via SQL window functions |
+| ⏱️ Efficiency Gain | Reduced data prep time by ~60% through automated Python workflows |
+| 🎯 Segment Discovery | Isolated customer segments driving 30%+ of total sales in Power BI dashboard |
+| 🧪 4x Job Simulations | Completed simulations with Bank of America, Tata Group, Deloitte Australia, Accenture |
+
+</div>
+
+---
+
+### Education
+
+<div align="center">
+
+[![Degree](https://img.shields.io/badge/B.Tech%20Computer%20Science%20%26%20Engineering%20(2022--2026)-24292E?style=for-the-badge&logo=googlescholar&logoColor=FFFFFF&color=8B949E)](https://github.com/chiruratnala)
+
+</div>
+
+---
+
+### GitHub Analytics
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=chiruratnala&show_icons=true&hide_border=true&bg_color=24292E&title_color=FFFFFF&icon_color=8B949E&text_color=FFFFFF&ring_color=8B949E)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiruratnala&hide_border=true&background=24292E&ring=8B949E&fire=8B949E&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiruratnala&layout=compact&hide_border=true&bg_color=24292E&title_color=FFFFFF&text_color=FFFFFF)
+
+</div>
+
+---
+
+### GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=chiruratnala&theme=dark_dimmed&no-frame=true&no-bg=true&column=7&title=Commits,Stars,Followers,Repositories,PullRequest,Issues,Experience&row=1)
+
+</div>
+
+---
+
+### Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chiruratnala&bg_color=24292E&color=FFFFFF&line=8B949E&point=8B949E&area=true&hide_border=true)
+
+</div>
+
+---
+
+### Summary Cards
+
+<div align="center">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chiruratnala&theme=dark_dimmed)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chiruratnala&theme=dark_dimmed)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chiruratnala&theme=dark_dimmed)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chiruratnala&theme=dark_dimmed)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chiruratnala&theme=dark_dimmed&utcOffset=5.5)
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/chiruratnala/chiruratnala/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+### Current Focus
+
+```yaml
+currently:
+  building: "More data analytics & BI projects"
+  learning: "Advanced SQL, Power BI, and end-to-end analytics workflows"
+  exploring: "GenAI-assisted data analysis"
+  open_to:
+    - "Data Analyst"
+    - "BI Analyst"
+    - "Other relevant analytics roles"
+```
+
+---
+
+### Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=netlify&logoColor=FFFFFF&labelColor=24292E&color=8B949E)](https://chiruratnala.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24292E?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=24292E&color=8B949E)](https://linkedin.com/in/chiru-ratnala)
+[![Email](https://img.shields.io/badge/Email-24292E?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=24292E&color=8B949E)](mailto:chiruratnalaa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=24292E&color=8B949E)](https://github.com/chiruratnala)
+
+*"Turning raw data into decisions, one dashboard at a time."*
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24292E,100:8B949E&height=120&section=footer)
