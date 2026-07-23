@@ -3,14 +3,16 @@
 ### 💫 About Me:
 Aspiring Data Analyst with hands-on experience building Power BI dashboards with DAX, writing SQL queries with window functions, and applying machine learning to predictive modeling projects across retail, finance, and sales datasets. Skilled in data validation, statistical analysis, and translating raw data into stakeholder-ready reports through clear communication and structured data storytelling. Seeking a data analyst role focused on applied analytics and reporting.
 
----
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiru-ratnala) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@chiruratnalaa) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chiruratnalaa@gmail.com) 
 
----
+
+
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -25,7 +27,7 @@ Aspiring Data Analyst with hands-on experience building Power BI dashboards with
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
----
+
 
 ## 🚀 Featured Projects:
 
@@ -104,7 +106,8 @@ Aspiring Data Analyst with hands-on experience building Power BI dashboards with
   </tr>
 </table>
 
----
+
+
 
 ## 💼 Work Experience:
 
@@ -113,7 +116,8 @@ Aspiring Data Analyst with hands-on experience building Power BI dashboards with
 * 📈 **Data Analytics Intern** @ *Talent Shine India (APSCHE)* *(July 2025)*
   * Analyzed a 10,000-record financial dataset with Advanced Excel to diagnose churn drivers and optimize Customer Lifetime Value.
 
----
+
+
 
 ## 📜 Certifications:
 * 🎓 **Data Analytics Essentials** — *Cisco Networking Academy*
@@ -121,12 +125,14 @@ Aspiring Data Analyst with hands-on experience building Power BI dashboards with
 * 🐍 **Data Analysis Using Python** — *IBM Skills Network*
 * 📊 **Data Visualization Using Python** — *IBM Skills Network*
 
----
+
+
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=chiruratnala&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+
+
 
 ## 📊 GitHub Stats:
 <p align="center">
@@ -135,7 +141,8 @@ Aspiring Data Analyst with hands-on experience building Power BI dashboards with
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=chiruratnala&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
----
+
+
 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
