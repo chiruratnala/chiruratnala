@@ -148,3 +148,9 @@ Aspiring Data Analyst with hands-on experience building Power BI dashboards with
 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/chiruratnala/chiruratnala/output/github-contribution-grid-snake.svg)
