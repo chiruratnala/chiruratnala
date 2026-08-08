@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chiru Vignesh Kumar Ratnala
+# Hi, I'm Chiru Vignesh Kumar Ratnala
 
 ### 💫 About Me:
 Aspiring Data Analyst with hands-on experience building Power BI dashboards with DAX, writing SQL queries with window functions, and applying machine learning to predictive modeling projects across retail, finance, and sales datasets. Skilled in data validation, statistical analysis, and translating raw data into stakeholder-ready reports through clear communication and structured data storytelling. Seeking a data analyst role focused on applied analytics and reporting.
